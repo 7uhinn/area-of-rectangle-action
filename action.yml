@@ -1,7 +1,8 @@
 name: 'area of a rectangle'
 description: 'Calculate the area of a rectangle'
-icon: activity
-color: #000000
+branding:
+  icon: 'activity'
+  color: 'black'
 inputs:
   base:
     description: 'width'
