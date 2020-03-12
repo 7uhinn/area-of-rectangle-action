@@ -1,5 +1,7 @@
 name: 'area of a rectangle'
 description: 'Calculate the area of a rectangle'
+icon: activity
+color: #000000
 inputs:
   base:
     description: 'width'
