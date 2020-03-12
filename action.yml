@@ -1,0 +1,17 @@
+name: 'area of a rectangle'
+description: 'Calculate the area of a rectangle'
+inputs:
+  base:
+    description: 'width'
+    required: true
+    default: 8
+  height:
+    description: 'length'
+    required: true
+    default: 8
+outputs:
+  area:
+    description: 'the area of the rectangle'
+runs:
+  using: 'node12'
+  main: 'index.js'
